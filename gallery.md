@@ -18,7 +18,8 @@
         <br/>
         <b>HASHINCLUDE</b>- it is a Mobile Application using the Flutter plugin of Android Studio, Firebase for the backend, and Figma for the designing.<br/> #include application consists of a compiler, a discussion forum, a List of programs page and, YouTube tutorials for better understandingOur main objective is to make programming easier for students/(new) developers who are getting started with it. <br/><br/><br/>
         <img src="images/landinginclude.jpg" width=450>
-        <img src="videos/include.mov" width=450></img>
+<!--         <img src="videos/include.mov" width=450></img> -->
+        <gif src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.commlabindia.com%2Felearning-design%2Fanimated-gifs-corporate-training&psig=AOvVaw11ey2x87uIHpanvOUTE6Jb&ust=1623314342502000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDYpKiTivECFQAAAAAdAAAAABAH" width=450></gif>
     </p>
 <!--     <p align="right"><a href="videos/include.mov"><img src="https://image.flaticon.com/icons/png/512/93/93618.png" width=20 align="center"> Project video</a></p> -->
 </div>
