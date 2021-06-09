@@ -67,6 +67,8 @@
         <b>G-QUIZ WEB</b>- G-Quiz web application is one stop solution for students as well as new developers for indepth learning in most organised manner which includes short demo video, youtube tutorial course links and free material with quiz section for each and every topic. <br/><br/><br/>
         <img src="images/gquizweb.jpeg" width=450> 
     </p>
+        <p align="right"><a href="videos/compilecompanion.mov"><img src="https://image.flaticon.com/icons/png/512/93/93618.png" width=20 align="center"> Project video</a></p>
+
 </div>
 
 ---
