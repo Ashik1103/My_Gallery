@@ -55,7 +55,7 @@
         <b>G-QUIZ MOBILE</b>- G-Quiz mobile application is one stop solution for students as well as new developers for indepth learning in most organised manner which includes youtube tutorial course links and free material with quiz section for each and every topic. <br/><br/><br/>
         <img src="images/gquizmobile.jpeg" width=450>
     </p>
-    <p align="right"><a href="videos/G-Quiz-Mobile.mov"><img src="https://image.flaticon.com/icons/png/512/93/93618.png" width=20 align="center"> Project video</a></p>
+    <p align="right"><a href="https://github.com/Ashik1103/My_Gallery/blob/master/videos/G-Quiz-Mobile.mov"><img src="https://image.flaticon.com/icons/png/512/93/93618.png" width=20 align="center"> Project video</a></p>
 </div>
 
 ---
